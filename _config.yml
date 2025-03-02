@@ -24,10 +24,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Nan Hu (胡 楠)"
-  pronouns         :  "He/him"  
-  bio              : "Here is the translation of your short biography:
-
-Bachelor of Energy and Environmental Systems Engineering from Zhejiang University, Ph.D. in Engineering Thermophysics from Zhejiang University, Postdoctoral Researcher at Princeton University. Research interests include fluid mechanics, phase change, and heat transfer."
+  pronouns         : "He/him"  
+  bio              : "Bachelor of Energy and Environmental Systems Engineering from Zhejiang University, Ph.D. in Engineering Thermophysics from Zhejiang University, Postdoctoral Researcher at Princeton University. Research interests include fluid mechanics, phase change, and heat transfer."
   location         : "Princeton, NJ, USA"
   employer         : "Princeton University"
   uri              : # URL
