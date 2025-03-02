@@ -23,19 +23,19 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "He/him"  
+  name             : "Nan Hu (胡 楠)"
+  pronouns         :  "He/him"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Princeton University"
-  employer         : "Red Brick University"
+  location         : "Princeton, NJ, USA"
+  employer         : "Princeton Universit"
   uri              : # URL
   email            : "nh0529@princeton.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=HdAPq3kAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-9377-3904"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
