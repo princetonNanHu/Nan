@@ -25,11 +25,8 @@ author:
   avatar           : "Nan.png"
   name             : "Nan Hu (胡 楠)"
   pronouns         : "He/him"  
-  bio: |
-  B.E., Zhejiang University.
-  Ph.D., Zhejiang University.
-  Postdoctoral Researcher, Princeton University.
-  Research interests include fluid mechanics, phase change, and heat transfer.
+  bio:  : "B.E., Zhejiang University; Ph.D., Zhejiang University; Postdoctoral Researcher, Princeton University" 
+  
   location         : "Princeton, NJ, USA"
   employer         : "Princeton University"
   uri              : # URL
