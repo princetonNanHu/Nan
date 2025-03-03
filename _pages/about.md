@@ -11,6 +11,7 @@ I am broadly interested in various fluid mechanics and transport phenomena, and 
 
 Phase Transition 
 ======
+
 Melting
 ------
 Melting is a common and widely studied phenomenon. My research focuses on a specific type of melting, namely close-contact melting. I investigate its associated flow and heat transfer processes, including the non-Newtonian characteristics and special effects such as interfacial slip. Additionally, I am dedicated to applying these findings to rapid charging in phase change thermal energy storage systems.
