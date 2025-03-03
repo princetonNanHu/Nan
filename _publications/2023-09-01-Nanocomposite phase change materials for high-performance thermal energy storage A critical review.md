@@ -3,7 +3,7 @@ title: "Nanocomposite phase change materials for high-performance thermal energy
 collection: publications
 category: manuscripts
 excerpt: 'In this review, we summarize systematically the effects of carbon-based nano-additives on the important thermophysical properties of nanocomposite phase change materials, referred to as nano-enhanced phase change materials (NePCM) '
-date: 2024-06-13
+date: 2023-09-01
 venue: 'Energy Storage Materials'
 citation: 'Zi-Rui Li, Nan Hu, Li-Wu Fan*, Nanocomposite phase change materials for high-performance thermal energy storage, Energy Storage Materials, 55, 727-753 (2023).'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S240582972200695X'
