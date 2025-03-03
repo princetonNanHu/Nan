@@ -5,7 +5,7 @@ category: manuscripts
 excerpt: 'In this work, we establish a mechanistic model to decipher how the SEI affects Li plating in high-fluorine electrolytes, inspiring the design of an efficient electrolyte that generates dual-halide SEI to homogenize Li+ distribution and Li deposition.'
 date: 2022-09-16
 venue: 'Nature Communications'
-citation: 'Zhang, S., Li, R., Hu, N. et al. Tackling realistic Li+ flux for high-energy lithium metal batteries. Nat Commun 13, 5431 (2022). https://doi.org/10.1038/s41467-022-33151-w'
+citation: 'Shuoqing Zhang†, Ruhong Li†, Nan Hu†, Tao Deng, Suting Weng, Zunchun Wu, Di Lu, Haikuo Zhang, Junbo Zhang, Xuefeng Wang, Lixin Chen, Liwu Fan*, Xiulin Fan*, Tackling realistic Li+ flux for high-energy lithium metal batteries, Nature Communications, 13, 5431 (2022).'
 paperurl: 'https://www.nature.com/articles/s41467-022-33151-w#citeas'
 permalink: 'https://www.nature.com/articles/s41467-022-33151-w#citeas'
 ---
