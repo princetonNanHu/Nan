@@ -3,7 +3,7 @@ title: "A numerical study of optimizing the well spacing and heating power for i
 collection: publications
 category: manuscripts
 excerpt: 'Numerical simulations were performed using COMSOL Multiphysics based on a coupled water-vapor-heat transport model without considering the organic pollutants'
-date: 2024-06-13
+date: 2024-05-13
 venue: 'Case Studies in Thermal Engineering'
 citation: 'Xin-Yu Xu, Nan Hu*, Qing Wang, Li-Wu Fan*, Xin Song, A numerical study of optimizing the well spacing and heating power for in situ thermal remediation of organic-contaminated soil, Case Studies in Thermal Engineering, 33, 101941 (2022). '
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S2214157X22001873'
