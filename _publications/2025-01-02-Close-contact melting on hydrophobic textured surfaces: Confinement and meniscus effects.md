@@ -6,6 +6,7 @@ excerpt: 'We investigate the dynamics of close-contact melting (CCM) on gas-trap
 date: 2025-1-2
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2501.01340'
+citation: 'Nan Hu*, Liwu Fan*, Xiang Gao, Howard A. Stone*. Close-contact melting on hydrophobic textured surfaces: Confinement and meniscus effects, arXiv:2501.01340'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
