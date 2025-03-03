@@ -17,7 +17,7 @@ Melting is a common and widely studied phenomenon. My research focuses on a spec
 
 Evaporation and Boiling
 ------
-The processes of evaporation and boiling in porous media are closely related to energy and environmental challenges, such as high-performance heat dissipation surfaces, solar-thermal interface evaporation for water purification, and thermal treatment of organic pollutants in soil. My research focuses on understanding and describing the gas-liquid migration and phase change processes involved, with the aim of providing insights for efficient heat dissipation and water and soil purification
+The processes of evaporation and boiling in porous media are closely related to energy and environmental challenges, such as high-performance heat dissipation surfaces, solar-thermal interface evaporation for water purification, and thermal treatment of organic pollutants in soil. My research focuses on understanding and describing the gas-liquid migration and phase change processes involved, with the aim of providing insights for efficient heat dissipation, and water/soil purification
 
 Transportation in Electrochemical System
 ======
