@@ -3,7 +3,7 @@ title: "Close-contact melting on hydrophobic textured surfaces: Confinement and 
 collection: publications
 category: manuscripts
 excerpt: 'We investigate the dynamics of close-contact melting (CCM) on gas-trapped hydrophobic surfaces, with specific focus on the effects of geometrical confinement and the liquid-air meniscus below the liquid film.'
-date: 2025-1-2
+date: 2025-05-13
 venue: 'Journal of Fluid Mechanics'
 paperurl: 'https://doi.org/10.1017/jfm.2025.385'
 citation: 'Nan Hu*, Liwu Fan*, Xiang Gao, Howard A. Stone*. Close-contact melting on hydrophobic textured surfaces: Confinement and meniscus effects, Journal of Fluid Mechanics, Volume 1010 , 10 May 2025 , A46'
