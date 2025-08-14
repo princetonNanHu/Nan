@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Jan 2024: Postdoctoral Researcher, Princeton University
+* Postdoctoral Researcher, Princeton University, since Jan 2024
   * Mentor: Howard. A. Stone
 
 
