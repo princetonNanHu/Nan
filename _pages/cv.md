@@ -19,7 +19,7 @@ Work experience
 ======
 * Jan 2024: Postdoctoral Researcher
   * Princeton University
-  * Supervisor: Howard. A. Stone
+  * Mentor: Howard. A. Stone
 
 
 Publications
