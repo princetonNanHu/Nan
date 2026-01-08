@@ -10,8 +10,10 @@ citation: 'Zirui Li, Nan Hu*,...,Yumin Ye*, Zitao Yu, Xiang Gao, Howard A. Stone
 ---
 
 Phase-change thermal batteries for renewable energy storage and waste heat recovery demand high energy density and fast charging, which are mutually exclusive because phase-change materials (PCMs) with high melting enthalpy are usually poor heat conductors. The charging rate can be improved by making composite phase-change materials (CPCMs) with increased thermal conductivity and/or by exerting an external force to realize close-contact melting (CCM). However, these methods inevitably result in energy density losses and/or extra energy consumption. Here we report a strategy to boost the charging rates without sacrificing energy density, based on a rational design of a composite coating that enables slip-enhanced close-contact melting (sCCM) inside sealed thermal batteries. Using organic PCMs, we demonstrate a record-high power density of 1,100 ± 2% kW m−3 in a prototype. Our coating design integrates a pulse-heated (PH) layer that premelts the PCM to initiate CCM, together with a liquid-like slip surface that ensures unimpeded sinking of the remaining solid and sustains the sCCM mode throughout charging. We develop a model to explain how the slip surface enhances the charging rate. With high cycling life, adaptability and scalability, this strategy is generalizable to diverse PCMs, enabling high-performance thermal energy storage over a wide range of temperatures.
-[Figure 1.pdf](https://github.com/user-attachments/files/24510113/Figure.1.pdf)
-[Figure 2.pdf](https://github.com/user-attachments/files/24510115/Figure.2.pdf)
-[Figure 3.pdf](https://github.com/user-attachments/files/24510116/Figure.3.pdf)
-[Figure 4.pdf](https://github.com/user-attachments/files/24510117/Figure.4.pdf)
+<img width="979" height="764" alt="image" src="https://github.com/user-attachments/assets/65ebc214-ab17-43f3-8722-6b48873915b3" />
+<img width="960" height="685" alt="image" src="https://github.com/user-attachments/assets/2b7625b9-d449-46be-877a-a5a646dc7d62" />
+<img width="940" height="516" alt="image" src="https://github.com/user-attachments/assets/8c768569-2984-4b76-9d93-a1cde27c5a02" />
+<img width="965" height="895" alt="image" src="https://github.com/user-attachments/assets/5c6fe9fd-8cfc-4c0f-9437-82fc6d280337" />
+
+
 
